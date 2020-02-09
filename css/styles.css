@@ -102,6 +102,12 @@ nav.navbar {
 }
 
 /* Our Story */
+.container-fluid {
+    border: 5px 5px 1px;
+    border-color: #f8512f;
+}
+
+
 #our_story .row {
     margin-top: 30px;
 }
@@ -111,19 +117,23 @@ nav.navbar {
     color: #f8512f;
     font-size: 8rem;
     text-shadow: 1px 1px 5px #0a0a0a;
+    margin-top: 60px;
+    margin-left: 70px;
 }
 
 #our_story h3 {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 2rem;
-    margin-top: 0;
+    margin-top: 30px;
+    margin-left: 115px;
 }
 
 #our_story p {
     font-family: 'Raleway', sans-serif;
-    font-weight: 300;
+    font-weight: 500;
 }
+
 
 #story_year {
     font-family: 'Playfair Display', sans-serif;
